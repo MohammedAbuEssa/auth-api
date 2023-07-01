@@ -1,0 +1,23 @@
+{
+    "development":{
+        "username":"username",
+        "password":"password",
+        "host":"127.0.0.1",
+        "database":"oauth",
+        "dialect":"postgres"
+    },
+    "test":{
+        "username":"username",
+        "password":"password",
+        "host":"127.0.0.1",
+        "database":"oauth",
+        "dialect":"sqlite::memory:"
+    },
+    "production":{
+        "username":"username",
+        "password":"password",
+        "host":"127.0.0.1",
+        "database":"oauth",
+        "dialect":"postgres"
+    }
+}
